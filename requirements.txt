@@ -1,0 +1,7 @@
+pandas
+numpy
+jupyter
+openpyxl
+faker
+fastapi
+uvicorn

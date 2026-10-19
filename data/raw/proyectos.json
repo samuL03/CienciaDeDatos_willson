@@ -1,0 +1,12 @@
+[
+  {"id": 101, "emprendedor_id": 1, "nombre_proyecto": "AppAgro: app de precios de cosecha",     "sector": "Tecnología",    "modalidad": "Fondo Emprender",        "estado": "En formulación", "presupuesto_cop": 45000000, "empleos_proyectados": 4},
+  {"id": 102, "emprendedor_id": 1, "nombre_proyecto": "Plataforma de tutorías en línea",        "sector": "Educación",     "modalidad": "Ruta de emprendimiento", "estado": "Aprobado",       "presupuesto_cop": 18000000, "empleos_proyectados": 2},
+  {"id": 103, "emprendedor_id": 2, "nombre_proyecto": "Hortalizas hidropónicas urbanas",        "sector": "Agroindustria", "modalidad": "Fondo Emprender",        "estado": "En ejecución",   "presupuesto_cop": 80000000, "empleos_proyectados": 6},
+  {"id": 104, "emprendedor_id": 2, "nombre_proyecto": "Compostaje de residuos orgánicos",       "sector": "Ambiental",     "modalidad": "Ruta de emprendimiento", "estado": "En formulación", "presupuesto_cop": 22000000, "empleos_proyectados": 3},
+  {"id": 105, "emprendedor_id": 3, "nombre_proyecto": "Cocina saludable por suscripción",       "sector": "Alimentos",     "modalidad": "Fondo Emprender",        "estado": "Aprobado",       "presupuesto_cop": 60000000, "empleos_proyectados": 5},
+  {"id": 106, "emprendedor_id": 4, "nombre_proyecto": "Reparación y reciclaje de electrónicos", "sector": "Tecnología",    "modalidad": "Ruta de emprendimiento", "estado": "En ejecución",   "presupuesto_cop": 30000000, "empleos_proyectados": 3},
+  {"id": 107, "emprendedor_id": 4, "nombre_proyecto": "Sensores de bajo costo para huertas",    "sector": "Agroindustria", "modalidad": "Fondo Emprender",        "estado": "En formulación", "presupuesto_cop": 52000000, "empleos_proyectados": 4},
+  {"id": 108, "emprendedor_id": 5, "nombre_proyecto": "Agencia de marketing para tiendas",      "sector": "Servicios",     "modalidad": "Ruta de emprendimiento", "estado": "Finalizado",     "presupuesto_cop": 15000000, "empleos_proyectados": 2},
+  {"id": 109, "emprendedor_id": 6, "nombre_proyecto": "Estudio de producción audiovisual",      "sector": "Creativo",      "modalidad": "Fondo Emprender",        "estado": "Aprobado",       "presupuesto_cop": 70000000, "empleos_proyectados": 5},
+  {"id": 110, "emprendedor_id": 6, "nombre_proyecto": "Podcast de historias regionales",        "sector": "Creativo",      "modalidad": "Ruta de emprendimiento", "estado": "En formulación", "presupuesto_cop": 9000000,  "empleos_proyectados": 1}
+]
